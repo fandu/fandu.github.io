@@ -75,15 +75,14 @@ span.pub_authors {
     font-size: 14px;
 }
 
-span.pub_myname {
-    font-weight: 400;
-    font-size: 14px;
-}
-
 span.pub_type {
     font-weight: 300;
     color: #7F7F7F;
     font-size: 14px;
+}
+
+span.pub_intern {
+    font-size: 12px;
 }
 
 span.pub_downloads {
@@ -98,7 +97,7 @@ span.pub_award {
 }
 
 span.pub_me {
-    font-weight: 500;
+    font-weight: 700;
 }
 
 td.table_title {
