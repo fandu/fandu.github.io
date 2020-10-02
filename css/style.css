@@ -198,3 +198,7 @@ span.pub_award a:hover {
         display: none;
     }
 }
+
+.navbar-default {
+    background-color: #252525;
+}
